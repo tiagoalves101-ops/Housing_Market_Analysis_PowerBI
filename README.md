@@ -44,3 +44,9 @@ The analysis highlights pricing differences between regions and the influence of
 
 ## 🧾 About
 This Power BI project was developed to showcase data analysis and visualization capabilities applied to the **housing market**.  
+
+---
+
+📂 [Download Power BI File](PBI_Housing_Market_Analysis.pbix)
+
+
