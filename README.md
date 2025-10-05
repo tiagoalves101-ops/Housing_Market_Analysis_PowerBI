@@ -16,7 +16,7 @@ The dashboard includes:
 
 ## 📁 Files
 - `PBI_Projecto7_Housing.pbix` → Power BI report  
-- `data/` → Raw and cleaned datasets (if applicable)  
+- `data/` → Raw datasets  
 - `images/` → Dashboard screenshots  
 
 ---
