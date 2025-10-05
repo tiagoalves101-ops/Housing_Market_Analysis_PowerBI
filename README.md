@@ -34,7 +34,11 @@ The analysis highlights pricing differences between regions and the influence of
 ---
 
 ## 📸 Preview
-![Dashboard Preview](images/dashboard_preview.png)
+
+![Dashboard Page 1](images/dashboard_preview-1.png)
+![Dashboard Page 2](images/dashboard_preview-2.png)
+![Dashboard Page 3](images/dashboard_preview-3.png)
+
 
 ---
 
